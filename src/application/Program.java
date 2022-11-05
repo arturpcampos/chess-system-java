@@ -8,7 +8,7 @@ import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.ChessPosition;
 
-//Art
+//Art2
 
 public class Program {
 
